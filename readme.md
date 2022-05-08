@@ -16,4 +16,6 @@ Gere o **docker-compose** de uma forma que basta apenas rodarmos: docker-compose
 
 ![evidencia1](https://github.com/JessiiPer/desafio-docker-compose-fullcycle/blob/master/docs/docker-compose-up.png)
 
+![evidencia3](https://github.com/JessiiPer/desafio-docker-compose-fullcycle/blob/master/docs/docker-ps.png)
+
 ![evidencia2](https://github.com/JessiiPer/desafio-docker-compose-fullcycle/blob/master/docs/view.png)
